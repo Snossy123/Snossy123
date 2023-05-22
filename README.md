@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sports match video to text summarization using neural network](https://github.com/Niketkumardheeryan/ML-CaPsule/issues/266)
 
-- 📚 Studying Computer Science at FCIS - ASU year 2.
+- 📚 Studying Computer Science at FCIS - ASU year 4.
 
 - 🌱 I’m currently learning **Deep Learning, Computer Vision and NLP**
 
